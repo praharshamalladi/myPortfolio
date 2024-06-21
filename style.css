@@ -330,10 +330,11 @@ h3{
     position: absolute;
     right: 20px;
     bottom: 20px;
-    background: var(--first-color);
+    background: green;
     color: var(--color-white);
     border-radius: 30px;
     justify-content: center;
+    align-items: center;
 }
 .about-btn button:hover{
     background: var(--first-color-hover);
