@@ -333,6 +333,7 @@ h3{
     background: var(--first-color);
     color: var(--color-white);
     border-radius: 30px;
+    justify-content: center;
 }
 .about-btn button:hover{
     background: var(--first-color-hover);
